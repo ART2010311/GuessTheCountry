@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GuessTheCountry</string>
+    <string name="india">India</string>
+    <string name="france">France</string>
+    <string name="germany">Germany</string>
+    <string name="which_country_has_the_eiffel_tower">Which country has the Eiffel Tower??</string>
+</resources>
